@@ -1,0 +1,16 @@
+fire
+pymysql==0.10.1
+python-dateutil
+qcloudsms-py
+deap
+#TA-Lib
+redis
+PyYAML
+pyzmq
+pymongo
+gunicorn
+flask
+flask-compress
+pymssql==2.1.4
+DBUtils==1.3
+simplejson
